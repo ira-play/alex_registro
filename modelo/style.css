@@ -1,0 +1,24 @@
+/* Imagem de fundo */
+body{
+    background-image: url(../../../Downloads/Largatixa.jpg);
+
+background-size: cover;      /* faz a imagem cobrir toda a tela */
+background-position: center; /* centraliza a imagem */
+background-repeat: no-repeat;/* evita repetição */
+height: 100vh;
+margin: 0;
+}
+/* Muda e altera o h1 (título) */
+h1{
+    font-family:'Times New Roman', Times, serif; /* Fontes */
+    text-align: center;
+    font-size: 50px;
+    color: white;
+}
+ /* Altera o paragrafo */
+p{
+    font-size: 20px; /* tamanho da fonte */
+    color: white; /* cor da fonte */
+    text-align: left; /* alinhamento da fonte */
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; /* tipo da familia da fonte */
+}
